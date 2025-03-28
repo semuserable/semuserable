@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Blogging
 
-* dotnet cross-platform interop with C via Environment.ProcessId system call - [semuserable.com](https://semuserable.com/2025/03/22/dotnet-cross-platform-interop-with-c/)
+* dotnet cross-platform interop with C via Environment.ProcessId system call - [semuserable.com](https://semuserable.com/2025/03/22/dotnet-cross-platform-interop-with-c/), [dev.to](https://dev.to/semuserable/dotnet-cross-platform-interop-with-c-via-environmentprocessid-system-call-46bi)
 * Flavours of rounding - [semuserable.com](https://semuserable.com/2021/08/20/flavours-of-rounding/), [medium.com](https://medium.com/@semuserable/flavours-of-rounding-aeaa5b2ef7ce), [dev.to](https://dev.to/semuserable/flavours-of-rounding-42e0)
 * Postgres pg_stat_statement setup via docker - [semuserable.com](https://semuserable.com/2020/01/27/postgres-pg-stat-statement-via-docker/), [dev.to](https://dev.to/semuserable/postgres-pgstatstatement-setup-via-docker-3pkn)
 * Starting with Fable (F#) - [medium.com](https://medium.com/itnext/starting-with-fable-f-83846ab790ad) featured by [ITNEXT](https://itnext.io/), [dev.to](https://dev.to/semuserable/starting-with-fable-f-kbi)
